@@ -19,6 +19,7 @@ const ImageList: React.FC<ImageListProps> = ({ photos, loadMorePhotos }) => {
                 style={styles.listView}
                 onEndReachedThreshold={0.5}
                 onEndReached={loadMorePhotos}
+                testID ="flat-list"
             />
 
         </View>

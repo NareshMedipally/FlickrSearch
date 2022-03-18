@@ -30,6 +30,7 @@ const ImageItem:React.FC<ImageItemProps>= (props)=>{
             priority: FastImage.priority.normal,
         }}
         resizeMode={FastImage.resizeMode.cover}
+        testID = "fast-image"
     />
         </View>
     )
