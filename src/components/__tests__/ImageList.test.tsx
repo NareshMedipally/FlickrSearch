@@ -3,8 +3,8 @@ import {
   render,
   fireEvent
 } from  '@testing-library/react-native'
-import ImageItem from "../../components/ImageItem";
-import ImageList from "../../components/ImageList";
+import ImageItem from "../ImageItem";
+import ImageList from "../ImageList";
 
 const mockData = [{
     "id":"51946307924",
