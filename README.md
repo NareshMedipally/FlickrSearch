@@ -33,3 +33,7 @@ Assuming you have all the requirements installed, you can run the project by run
 - [LandScape View](https://user-images.githubusercontent.com/6646676/159081378-6d7bf353-772b-42a4-a5b8-48ee82b39c6b.png)
 - [Search View](https://user-images.githubusercontent.com/6646676/159081492-08fc1b4a-9fd7-4f74-8450-d1f5f3081eb8.png)
 
+
+### Notes 
+- As the app features grows, state management libraries like Redux/Zustand can be used 
+- For UI we can use react native elements library
